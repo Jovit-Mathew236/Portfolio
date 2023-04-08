@@ -1,0 +1,16 @@
+nav {
+    position: absolute;
+    background: #03001C;
+    width: 100vw;
+    height: 100px;
+}
+
+nav .links {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    height: 100%;
+    padding: 0 20px;
+}
